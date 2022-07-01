@@ -1,0 +1,17 @@
+body{
+	background-color: navy;
+}
+h1{
+			font-size: 30px;
+			color: salmon;
+		}
+		p{
+			font-size: 15px;
+			color: mistyrose;
+		}
+		.dark{
+			color: black;
+		}
+		.uppercase{
+			text-transform: uppercase;
+		}
